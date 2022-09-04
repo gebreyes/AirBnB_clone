@@ -62,7 +62,7 @@ EOF  all  count  create  destroy  help  quit  show  update
 | AUTHOR | EMAIL | TWITTER | LINKEDIN |
 | :---: | :---: | :---: | :---: |
 | Gebreyes Gebeyehu | gebreyesis56@gmail.com|
-| Petros Abebe | amosndungo@gmail.com |
+| Petros Abebe | petros@mtu.edu.et |
 
 ## License
 No special licenses needed
